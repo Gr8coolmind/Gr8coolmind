@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-labelledby="title desc">
+  <title id="title">Julio José Montilla Reyes — Gr8coolmind</title>
+  <desc id="desc">CIBERSEGURIDAD / REDES / DESARROLLO. Mi objetivo: proteger infraestructura financiera.</desc>
+  <rect x="1" y="1" width="838" height="298" rx="16" fill="#0D1117" stroke="#283641" stroke-width="2"/>
+  <path d="M1 54H839" stroke="#283641"/>
+  <g font-family="DejaVu Sans Mono, monospace">
+    <text x="30" y="35" fill="#67E8F9" font-size="16">&gt; gr8coolmind / profile</text>
+    <text x="30" y="106" fill="#9DAAB8" font-size="15" letter-spacing="1">CIBERSEGURIDAD / REDES / DESARROLLO</text>
+    <text x="28" y="154" fill="#F0F6FC" font-size="36" font-weight="700">Julio José</text>
+    <text x="28" y="198" fill="#F0F6FC" font-size="36" font-weight="700">Montilla Reyes</text>
+    <text x="30" y="263" fill="#9DAAB8" font-size="17">Mi objetivo: proteger infraestructura financiera.</text>
+  </g>
+  <g fill="none" stroke="#67E8F9" stroke-width="2" opacity="0.55">
+    <path d="M646 127H718V169H786M646 127V198H718M718 169V198"/>
+    <rect x="632" y="113" width="28" height="28" rx="5" fill="#0D1117"/>
+    <rect x="704" y="155" width="28" height="28" rx="5" fill="#0D1117"/>
+    <circle cx="786" cy="169" r="9" fill="#0D1117"/>
+    <circle cx="718" cy="198" r="9" fill="#0D1117"/>
+  </g>
+</svg>
